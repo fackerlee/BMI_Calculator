@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <!--Gender-->
+    <string name="text_gender">Gender</string>
+    <string name="txt_men">Male</string>
+    <string name="txt_women">Female</string>
+    <!--Age-->
+    <string name="text_age">Age</string>
+    <!--Units-->
+    <string name="text_units">Units</string>
+    <string-array name="units">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+    <!--Weight & Height-->
+    <string name="txt_weight">Weight</string>
+    <string name="txt_height">Height</string>
+    <string name="txt_0">0</string>
+    <!--Button-->
+    <string name="txt_reset">Reset</string>
+    <string name="txt_calculate">Calculate</string>
+    <!--Toast for when user are not select weight and height-->
+    <string name="toast_message_weight_height">Please Select Weight and Height</string>
+    <!--Result for below 21 -->
+    <string name="toast_message_underweight_age">Underweight</string>
+    <string name="toast_message_healthy_age">Healthy</string>
+    <string name="toast_message_overweight_age">Overweight</string>
+    <string name="toast_message_obesity_age">Obesity</string>
+    <!--Result for Above 21-->
+    <string name="toast_message_adult_VS_underweight">Very Severely Underweight</string>
+    <string name="toast_message_adult_S_underweight">Severely Underweight</string>
+    <string name="toast_message_adult_underweight">Underweight</string>
+    <string name="toast_message_adult_normal">Normal (Healthy Weight)</string>
+    <string name="toast_message_adult_overweight">Overweight</string>
+    <string name="toast_message_adult_M_Moderately">Mode Moderately</string>
+    <string name="toast_message_adult_S_obse">Severely Obese</string>
+    <string name="toast_message_adult_VS_obese">Very Severely Obese</string>
+</resources>

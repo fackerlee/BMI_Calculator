@@ -262,6 +262,7 @@
         app:sv_sectionStyle="BUTT"
         app:sv_speedTextColor="#FFFFFF"
         app:sv_textColor="#F6F3F3"
+        app:sv_unit="BMI"
         app:sv_unitTextColor="@color/white"
         app:sv_unitUnderSpeedText="true"
         app:sv_withIndicatorLight="true"
